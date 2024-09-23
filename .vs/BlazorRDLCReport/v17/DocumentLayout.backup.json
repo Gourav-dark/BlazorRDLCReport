@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CV_Projects\\Blazor_Report_RDLC\\BlazorRDLCReport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00EB978F-BB18-419E-8A83-4D59F7E11F86}|BlazorRDLCReport\\Server\\BlazorRDLCReport.Server.csproj|d:\\cv_projects\\blazor_report_rdlc\\blazorrdlcreport\\blazorrdlcreport\\server\\wwwroot\\reports\\reservationreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{00EB978F-BB18-419E-8A83-4D59F7E11F86}|BlazorRDLCReport\\Server\\BlazorRDLCReport.Server.csproj|solutionrelative:blazorrdlcreport\\server\\wwwroot\\reports\\reservationreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EB978F-BB18-419E-8A83-4D59F7E11F86}|BlazorRDLCReport\\Server\\BlazorRDLCReport.Server.csproj|d:\\cv_projects\\blazor_report_rdlc\\blazorrdlcreport\\blazorrdlcreport\\server\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EB978F-BB18-419E-8A83-4D59F7E11F86}|BlazorRDLCReport\\Server\\BlazorRDLCReport.Server.csproj|solutionrelative:blazorrdlcreport\\server\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EB978F-BB18-419E-8A83-4D59F7E11F86}|BlazorRDLCReport\\Server\\BlazorRDLCReport.Server.csproj|d:\\cv_projects\\blazor_report_rdlc\\blazorrdlcreport\\blazorrdlcreport\\server\\datasets\\dsreservation.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{00EB978F-BB18-419E-8A83-4D59F7E11F86}|BlazorRDLCReport\\Server\\BlazorRDLCReport.Server.csproj|solutionrelative:blazorrdlcreport\\server\\datasets\\dsreservation.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationReport.rdlc [Design]",
+              "DocumentMoniker": "D:\\CV_Projects\\Blazor_Report_RDLC\\BlazorRDLCReport\\BlazorRDLCReport\\Server\\wwwroot\\Reports\\ReservationReport.rdlc",
+              "RelativeDocumentMoniker": "BlazorRDLCReport\\Server\\wwwroot\\Reports\\ReservationReport.rdlc",
+              "ToolTip": "D:\\CV_Projects\\Blazor_Report_RDLC\\BlazorRDLCReport\\BlazorRDLCReport\\Server\\wwwroot\\Reports\\ReservationReport.rdlc [Design]",
+              "RelativeToolTip": "BlazorRDLCReport\\Server\\wwwroot\\Reports\\ReservationReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-09-23T17:31:22.171Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\CV_Projects\\Blazor_Report_RDLC\\BlazorRDLCReport\\BlazorRDLCReport\\Server\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "BlazorRDLCReport\\Server\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\CV_Projects\\Blazor_Report_RDLC\\BlazorRDLCReport\\BlazorRDLCReport\\Server\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "BlazorRDLCReport\\Server\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:21:19.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dsReservation.xsd",
+              "DocumentMoniker": "D:\\CV_Projects\\Blazor_Report_RDLC\\BlazorRDLCReport\\BlazorRDLCReport\\Server\\DataSets\\dsReservation.xsd",
+              "RelativeDocumentMoniker": "BlazorRDLCReport\\Server\\DataSets\\dsReservation.xsd",
+              "ToolTip": "D:\\CV_Projects\\Blazor_Report_RDLC\\BlazorRDLCReport\\BlazorRDLCReport\\Server\\DataSets\\dsReservation.xsd",
+              "RelativeToolTip": "BlazorRDLCReport\\Server\\DataSets\\dsReservation.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-23T18:51:06.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

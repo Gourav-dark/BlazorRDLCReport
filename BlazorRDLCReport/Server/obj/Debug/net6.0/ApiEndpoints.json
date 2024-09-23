@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "BlazorRDLCReport.Server.Controllers.ReportsController",
+    "Method": "getProducts",
+    "RelativePath": "api/Reports/getProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorRDLCReport.Server.Controllers.ReportsController",
+    "Method": "getReservations",
+    "RelativePath": "api/Reports/getReservations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,16 @@
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\bin\Debug\net8.0-windows\BlazorRDLCReport.Design.exe
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\bin\Debug\net8.0-windows\BlazorRDLCReport.Design.deps.json
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\bin\Debug\net8.0-windows\BlazorRDLCReport.Design.runtimeconfig.json
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\bin\Debug\net8.0-windows\BlazorRDLCReport.Design.dll
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\bin\Debug\net8.0-windows\BlazorRDLCReport.Design.pdb
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\BlazorRDLCReport.Design.Form1.resources
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\BlazorRDLCReport.Design.csproj.GenerateResource.cache
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\BlazorRDLCReport.Design.GeneratedMSBuildEditorConfig.editorconfig
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\BlazorRDLCReport.Design.AssemblyInfoInputs.cache
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\BlazorRDLCReport.Design.AssemblyInfo.cs
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\BlazorRDLCReport.Design.csproj.CoreCompileInputs.cache
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\BlazorRDLCReport.Design.dll
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\refint\BlazorRDLCReport.Design.dll
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\BlazorRDLCReport.Design.pdb
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\BlazorRDLCReport.Design.genruntimeconfig.cache
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport.Design\obj\Debug\net8.0-windows\ref\BlazorRDLCReport.Design.dll

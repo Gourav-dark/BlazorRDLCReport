@@ -1,0 +1,63 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Reports\ProductReport.rdlc" />
+    <Content Remove="wwwroot\Reports\ReservationReport.rdlc" />
+    <Content Remove="wwwroot\Reports\RReport.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.Reporting" Version="2.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.26" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.31" />
+    <PackageReference Include="System.CodeDom" Version="6.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+    <PackageReference Include="System.Security.Permissions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Client\BlazorRDLCReport.Client.csproj" />
+    <ProjectReference Include="..\Shared\BlazorRDLCReport.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Reports\ProductReport.rdlc" />
+    <None Include="wwwroot\Reports\ReservationReport.rdlc" />
+    <None Include="wwwroot\Reports\RReport.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="DataSets\dsProduct.Designer.cs">
+      <DependentUpon>dsProduct.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Update="DataSets\dsReservation.Designer.cs">
+      <DependentUpon>dsReservation.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DataSets\dsProduct.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>dsProduct.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="DataSets\dsReservation.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>dsReservation.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+  </ItemGroup>
+
+
+</Project>
