@@ -909,3 +909,4 @@ D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Client\obj\D
 D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Client\obj\Debug\net6.0\refint\BlazorRDLCReport.Client.dll
 D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Client\obj\Debug\net6.0\BlazorRDLCReport.Client.pdb
 D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Client\obj\Debug\net6.0\ref\BlazorRDLCReport.Client.dll
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Client\obj\Debug\net6.0\BlazorRDLCReport.Client.sourcelink.json

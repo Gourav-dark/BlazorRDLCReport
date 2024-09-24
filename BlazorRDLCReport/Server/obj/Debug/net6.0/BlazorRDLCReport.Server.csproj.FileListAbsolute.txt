@@ -99,3 +99,4 @@ D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Server\obj\D
 D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Server\obj\Debug\net6.0\BlazorRDLCReport.Server.pdb
 D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Server\obj\Debug\net6.0\BlazorRDLCReport.Server.genruntimeconfig.cache
 D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Server\obj\Debug\net6.0\ref\BlazorRDLCReport.Server.dll
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Server\obj\Debug\net6.0\BlazorRDLCReport.Server.sourcelink.json

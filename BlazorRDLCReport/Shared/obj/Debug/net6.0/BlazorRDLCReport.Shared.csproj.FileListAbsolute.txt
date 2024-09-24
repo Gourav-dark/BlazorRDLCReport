@@ -10,3 +10,4 @@ D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Shared\obj\D
 D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Shared\obj\Debug\net6.0\refint\BlazorRDLCReport.Shared.dll
 D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Shared\obj\Debug\net6.0\BlazorRDLCReport.Shared.pdb
 D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Shared\obj\Debug\net6.0\ref\BlazorRDLCReport.Shared.dll
+D:\CV_Projects\Blazor_Report_RDLC\BlazorRDLCReport\BlazorRDLCReport\Shared\obj\Debug\net6.0\BlazorRDLCReport.Shared.sourcelink.json

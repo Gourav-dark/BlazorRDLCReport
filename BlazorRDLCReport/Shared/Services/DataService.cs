@@ -10,7 +10,7 @@ namespace BlazorRDLCReport.Shared.Services
         public DataService()
         {
             products = GenerateProductsData(50);
-            reservations = GenerateReservationsData(50);
+            reservations = GenerateReservationsData(30);
         }
 
         public async Task<List<Product>> GetProductsAsync()

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorRDLCReport.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc2a65e125d637a5303bf9cb6f3fd8542572b4e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorRDLCReport.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorRDLCReport.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

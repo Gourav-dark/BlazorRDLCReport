@@ -1,7 +1,7 @@
 {
   "entryAssembly": "BlazorRDLCReport.Client",
   "resources": {
-    "hash": "sha256-92q4PLf6xglrIXc0pyF7JAgErqXv5uRiML2n78WI60o=",
+    "hash": "sha256-kgkxXUURdt2bWMGL4PVkw4RQP0M32pdYnvZusLDiTjk=",
     "runtime": {
       "dotnet.6.0.33.njcq5jocf6.js": "sha256-3qQapGQ76xXOm4Dpi23h4jVNXH1bTJXQIuoMVyT5rnU=",
       "dotnet.timezones.blat": "sha256-P+/t9PCEv/9QsJggxMNw2wdb6fNvy1O6Es0UqrFfIPQ=",
@@ -221,12 +221,12 @@
       "mscorlib.dll": "sha256-B9j0sYk80myYI4rWEvcGR3X307RSTBIwNZyYmqssN/g=",
       "netstandard.dll": "sha256-OA2B0VuineNCslrp0x3+8GHIKIgroIXq3QAppg304/0=",
       "System.Private.CoreLib.dll": "sha256-5B68cmtop3I9GS2JqJJBZQG3XP0L8yLNq+EREukp2Zk=",
-      "BlazorRDLCReport.Shared.dll": "sha256-cHlZfbnIiIFNRMBizriq821R5o8GTLJI6C7mQlKnUHk=",
-      "BlazorRDLCReport.Client.dll": "sha256-nNvHALvHJYsAwLKxFSe/hhwncRNJLN/64Opifwk6Mac="
+      "BlazorRDLCReport.Shared.dll": "sha256-bOCGYKJnKR1XtRR6SHdpQZWFuvTr73atyiyIem+ywIs=",
+      "BlazorRDLCReport.Client.dll": "sha256-LKNAIwyRcoAlwJyCGX+WlvZEPoqKqT1MpN2jdiQC22E="
     },
     "pdb": {
-      "BlazorRDLCReport.Shared.pdb": "sha256-apTmQ1vhw48wmOL72jHQYXGroTw6746McZsOrLeCrFc=",
-      "BlazorRDLCReport.Client.pdb": "sha256-SjGd7w1yGrGQmXomtFtVwQ5XXYQQxGRWSEjYnpL9WOo="
+      "BlazorRDLCReport.Shared.pdb": "sha256-CI1yfETRVXuwx/Epy+x1+QuGh268pGYMJ2PfLNXAdLI=",
+      "BlazorRDLCReport.Client.pdb": "sha256-gAVjWfePLOD55Vi0pRVBh8iwcSATLNPlVKaEdtbwV70="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
